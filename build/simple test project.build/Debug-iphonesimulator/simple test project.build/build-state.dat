@@ -1,0 +1,371 @@
+Tsimple test project
+v6
+r1
+cCheck dependencies
+cSymLink /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/simple\ test\ project.app /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app
+cProcessPCH /var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/simple\ test\ project-Prefix-eegohxranjnbtpfztewfpfvcscce/simple\ test\ project-Prefix.pch.pch simple\ test\ project/simple\ test\ project-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/ViewController.o /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/AppDelegate.o /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/main.o /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/simple\ test\ project normal i386
+cCopyStringsFile /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/en.lproj/InfoPlist.strings simple\ test\ project/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/Images.xcassets
+cProcessInfoPlistFile /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/Info.plist /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/simple\ test\ project-Info.plist
+cGenerateDSYMFile /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/simple\ test\ project.app.dSYM /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/simple\ test\ project
+cTouch /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000526F8DD500000000000003B5
+t1383042517
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526F8DDB00000000000001A0
+t1383042523
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000526F8DDD0000000000445870
+t1383042525
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000526F8DDE000000000088C680
+t1383042526
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000526F8DE20000000001DB9910
+t1383042530
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000526F8E210000000000000AC9
+t1383042593
+s2761
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app
+t1391171545
+s306
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/Base.lproj/Main.storyboardc
+t1391171545
+s272
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/Info.plist
+t1391171545
+s1052
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/PkgInfo
+t1391171545
+s8
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/en.lproj/InfoPlist.strings
+t1391171540
+s42
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/simple test project
+t1391171540
+s784592
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/simple test project.app
+t2
+s0
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/simple test project.app.dSYM
+t2
+s0
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple test project.build/Debug-iphonesimulator/simple test project.build/Objects-normal/i386/AppDelegate.o
+t1391171540
+s65316
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple test project.build/Debug-iphonesimulator/simple test project.build/Objects-normal/i386/ViewController.o
+t1391171540
+s41096
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple test project.build/Debug-iphonesimulator/simple test project.build/Objects-normal/i386/main.o
+t1391171540
+s3736
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple test project.build/Debug-iphonesimulator/simple test project.build/Objects-normal/i386/simple test project.LinkFileList
+c0000000052EB97D20000000000000206
+t1391171538
+s518
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple test project.build/Debug-iphonesimulator/simple test project.build/assetcatalog_dependencies.txt
+t1391171544
+s443
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple test project.build/Debug-iphonesimulator/simple test project.build/assetcatalog_generated_info.plist
+t1391171544
+s525
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/AppDelegate.m
+c0000000052EB82AC00000000000007E6
+t1391166124
+s2022
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/Base.lproj/Main.storyboard
+c0000000052EB82AC000000000000194B
+t1391166124
+s6475
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/Images.xcassets
+c0000000052EB82AC0000000000000088
+t1391166124
+s136
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/ViewController.m
+c0000000052EB82AC00000000000001FC
+t1391166124
+s508
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/en.lproj/InfoPlist.strings
+c0000000052EB82AC000000000000002D
+t1391166124
+s45
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/main.m
+c0000000052EB82AC0000000000000160
+t1391166124
+s352
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/simple test project-Info.plist
+c0000000052EB82AC00000000000004C8
+t1391166124
+s1224
+
+N/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/simple test project-Prefix.pch
+c0000000052EB82AC0000000000000158
+t1391166124
+s344
+
+N/var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/simple test project-Prefix-eegohxranjnbtpfztewfpfvcscce/simple test project-Prefix.pch.pch
+t1391171540
+s109428
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0f9be452cf9bb841^1040ea52cf9bb841^---0#1#1#--18"Check dependencies36"342647BF-3CB1-46D3-AAF4-4E8BCA93F085-
+
+CCompileAssetCatalog /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/Images.xcassets
+s412864340.295769
+e412864344.067142
+r1
+xCompileAssetCatalog
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/LaunchImage-700-568h@2x.png
+o/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/Assets.car
+o/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple test project.build/Debug-iphonesimulator/simple test project.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"[1mCompileAssetCatalog[0m Frank/frankified_build/simple\ test\ project.app [1msimple\ test\ project/Images.xcassets[0m122"[1mCompileAssetCatalog[0m Frank/frankified_build/simple\ test\ project.app [1msimple\ test\ project/Images.xcassets[0m58c94b54cf9bb841^683c1158cf9bb841^-471"/* com.apple.actool.compilation-results *//Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/LaunchImage-700-568h@2x.png/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/Assets.car/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple test project.build/Debug-iphonesimulator/simple test project.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@107"file:///Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple%20test%20project/Images.xcassets/0000000000000000^1450"[1mCompileAssetCatalog[0m Frank/frankified_build/simple\ test\ project.app [1msimple\ test\ project/Images.xcassets[0m    cd /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/Images.xcassets36"3D910AC0-37E2-4858-8B1C-C2BFFEAD6BEA-
+bE80514A0-3ED9-45B6-81A2-D84AA785B86C
+
+CCompileC build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/AppDelegate.o /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412864340.026178
+e412864340.094918
+r1
+xCompileC
+xbuild/simple test project.build/Debug-iphonesimulator/simple test project.build/Objects-normal/i386/AppDelegate.o
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/AppDelegate.m
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/AppDelegate.m246"[1mCompileC[0m build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/AppDelegate.o [1msimple\ test\ project/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler68ce0654cf9bb841^014d1854cf9bb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple%20test%20project/AppDelegate.m0000000000000000^4450"[1mCompileC[0m build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/AppDelegate.o [1msimple\ test\ project/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=134 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/ModuleCache -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-generated-files.hmap -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-own-target-headers.hmap -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-all-target-headers.hmap -iquote /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-project-headers.hmap -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/DerivedSources/i386 -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/DerivedSources -F/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator -include /var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/simple\ test\ project-Prefix-eegohxranjnbtpfztewfpfvcscce/simple\ test\ project-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/AppDelegate.dia -c /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/AppDelegate.m -o /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/AppDelegate.o36"D0D3A18E-4A7A-4B82-9472-6C11777356A2-
+bE80514A0-3ED9-45B6-81A2-D84AA785B86C
+
+CCompileC build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/ViewController.o /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412864340.025902
+e412864340.084837
+r1
+xCompileC
+xbuild/simple test project.build/Debug-iphonesimulator/simple test project.build/Objects-normal/i386/ViewController.o
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/ViewController.m
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/ViewController.m252"[1mCompileC[0m build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/ViewController.o [1msimple\ test\ project/ViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler94bc0654cf9bb841^24b81554cf9bb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple%20test%20project/ViewController.m0000000000000000^4468"[1mCompileC[0m build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/ViewController.o [1msimple\ test\ project/ViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=134 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/ModuleCache -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-generated-files.hmap -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-own-target-headers.hmap -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-all-target-headers.hmap -iquote /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-project-headers.hmap -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/DerivedSources/i386 -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/DerivedSources -F/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator -include /var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/simple\ test\ project-Prefix-eegohxranjnbtpfztewfpfvcscce/simple\ test\ project-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/ViewController.dia -c /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/ViewController.m -o /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/ViewController.o36"4094040D-E17A-4AF1-B9BA-B93F6794AC75-
+bE80514A0-3ED9-45B6-81A2-D84AA785B86C
+
+CCompileC build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/main.o /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412864340.026452
+e412864340.058394
+r1
+xCompileC
+xbuild/simple test project.build/Debug-iphonesimulator/simple test project.build/Objects-normal/i386/main.o
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/main.m
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/main.m232"[1mCompileC[0m build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/main.o [1msimple\ test\ project/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdbde0654cf9bb841^03ed0e54cf9bb841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple%20test%20project/main.m0000000000000000^4408"[1mCompileC[0m build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/main.o [1msimple\ test\ project/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=134 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/ModuleCache -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-generated-files.hmap -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-own-target-headers.hmap -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-all-target-headers.hmap -iquote /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-project-headers.hmap -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/DerivedSources/i386 -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/DerivedSources -F/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator -include /var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/simple\ test\ project-Prefix-eegohxranjnbtpfztewfpfvcscce/simple\ test\ project-Prefix.pch -DFRANKIFIED -MMD -MT dependencies -MF /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/main.dia -c /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/main.m -o /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/main.o36"AD320AD8-94B1-4AA6-BBF4-71E4ED4EE268-
+bE80514A0-3ED9-45B6-81A2-D84AA785B86C
+
+CCompileStoryboard /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/Base.lproj/Main.storyboard
+s412864340.295310
+e412864345.611185
+r1
+xCompileStoryboard
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"[1mCompileStoryboard[0m [1msimple\ test\ project/Base.lproj/Main.storyboard[0m82"[1mCompileStoryboard[0m [1msimple\ test\ project/Base.lproj/Main.storyboard[0m2eac4b54cf9bb841^0c799c59cf9bb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple%20test%20project/Base.lproj/Main.storyboard0000000000000000^1081"[1mCompileStoryboard[0m [1msimple\ test\ project/Base.lproj/Main.storyboard[0m    cd /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/Base.lproj/Main.storyboardc /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/Base.lproj/Main.storyboard36"2DD2962E-B25F-4886-A6F4-84D6E5CA3BD0-
+bE80514A0-3ED9-45B6-81A2-D84AA785B86C
+
+CCopyStringsFile /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/en.lproj/InfoPlist.strings simple\ test\ project/en.lproj/InfoPlist.strings
+s412864340.295129
+e412864340.297461
+r1
+xCopyStringsFile
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/en.lproj/InfoPlist.strings
+xsimple test project/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Copy simple test project/en.lproj/InfoPlist.strings148"[1mCopyStringsFile[0m Frank/frankified_build/simple\ test\ project.app/en.lproj/InfoPlist.strings simple\ test\ project/en.lproj/InfoPlist.strings05a24b54cf9bb841^fe264c54cf9bb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple%20test%20project/en.lproj/InfoPlist.strings0000000000000000^806"[1mCopyStringsFile[0m Frank/frankified_build/simple\ test\ project.app/en.lproj/InfoPlist.strings simple\ test\ project/en.lproj/InfoPlist.strings    cd /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/en.lproj -- simple\ test\ project/en.lproj/InfoPlist.strings36"D3E66423-69C0-47B0-9500-F3BA78A3E4F5-
+bE80514A0-3ED9-45B6-81A2-D84AA785B86C
+
+CGenerateDSYMFile /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/simple\ test\ project.app.dSYM /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/simple\ test\ project
+s412864345.614153
+e412864345.709712
+r1
+xGenerateDSYMFile
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/simple test project.app.dSYM
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/simple test project
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Generate /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/simple test project.app.dSYM162"[1mGenerateDSYMFile[0m [1mbuild/Debug-iphonesimulator/simple\ test\ project.app.dSYM[0m Frank/frankified_build/simple\ test\ project.app/simple\ test\ project13489d59cf9bb841^b3b2b559cf9bb841^---0#0#1#-19%DVTDocumentLocation2@127"file:///Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/simple%20test%20project.app.dSYM00345cefdcffdf42^913"[1mGenerateDSYMFile[0m [1mbuild/Debug-iphonesimulator/simple\ test\ project.app.dSYM[0m Frank/frankified_build/simple\ test\ project.app/simple\ test\ project    cd /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/simple\ test\ project -o /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/simple\ test\ project.app.dSYM36"9DA53F60-FE31-4D07-AA96-FBFFBF029C4A-
+bE80514A0-3ED9-45B6-81A2-D84AA785B86C
+
+CLd /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/simple\ test\ project normal i386
+s412864340.095697
+e412864340.294355
+r1
+xLd
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/simple test project
+xnormal
+xi386
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple test project.build/Debug-iphonesimulator/simple test project.build/Objects-normal/i386/simple test project.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple test project.build/Debug-iphonesimulator/simple test project.build/Objects-normal/i386/ViewController.o
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple test project.build/Debug-iphonesimulator/simple test project.build/Objects-normal/i386/AppDelegate.o
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple test project.build/Debug-iphonesimulator/simple test project.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/libShelley.a
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/libCocoaAsyncSocket.a
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/libCocoaLumberjack.a
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/libCocoaHTTPServer.a
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/libFrank.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libdyld.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Link /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/simple test project93"[1mLd[0m Frank/frankified_build/simple\ test\ project.app/simple\ test\ project normal i386c4941854cf9bb841^2d5b4b54cf9bb841^---0#0#1#--1922"[1mLd[0m Frank/frankified_build/simple\ test\ project.app/simple\ test\ project normal i386    cd /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator -L/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank -F/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator -filelist /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/simple\ test\ project.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -all_load -ObjC -framework CFNetwork -framework Security -lShelley -lCocoaAsyncSocket -lCocoaLumberjack -lCocoaHTTPServer -lFrank -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/Objects-normal/i386/simple\ test\ project_dependency_info.dat -o /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/simple\ test\ project36"528C8E8D-4B3F-4EB8-B33E-E0BC69A25C01-
+bE80514A0-3ED9-45B6-81A2-D84AA785B86C
+
+CProcessInfoPlistFile /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/Info.plist /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/simple\ test\ project-Info.plist
+s412864345.611891
+e412864345.613759
+r1
+xProcessInfoPlistFile
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app/Info.plist
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/simple test project-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Process /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/simple test project-Info.plist151"[1mProcessInfoPlistFile[0m Frank/frankified_build/simple\ test\ project.app/Info.plist [1msimple\ test\ project/simple\ test\ project-Info.plist[0m7cb89c59cf9bb841^d61f9d59cf9bb841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple%20test%20project/simple%20test%20project-Info.plist0000000000000000^1208"[1mProcessInfoPlistFile[0m Frank/frankified_build/simple\ test\ project.app/Info.plist [1msimple\ test\ project/simple\ test\ project-Info.plist[0m    cd /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin"    builtin-infoPlistUtility /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/simple\ test\ project-Info.plist -genpkginfo /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/assetcatalog_generated_info.plist -o /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app/Info.plist36"713A24C7-75A7-4F81-B81D-45D973D75D2A-
+bE80514A0-3ED9-45B6-81A2-D84AA785B86C
+
+CProcessPCH /var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/simple\ test\ project-Prefix-eegohxranjnbtpfztewfpfvcscce/simple\ test\ project-Prefix.pch.pch simple\ test\ project/simple\ test\ project-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s412864338.943716
+e412864340.025287
+r1
+xProcessPCH
+x/var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/simple test project-Prefix-eegohxranjnbtpfztewfpfvcscce/simple test project-Prefix.pch.pch
+xsimple test project/simple test project-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple test project/simple test project-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Precompile simple test project/simple test project-Prefix.pch354"[1mProcessPCH[0m /var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/simple\ test\ project-Prefix-eegohxranjnbtpfztewfpfvcscce/simple\ test\ project-Prefix.pch.pch simple\ test\ project/simple\ test\ project-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0cb2f152cf9bb841^35790654cf9bb841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple%20test%20project/simple%20test%20project-Prefix.pch0000000000000000^4454"[1mProcessPCH[0m /var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/simple\ test\ project-Prefix-eegohxranjnbtpfztewfpfvcscce/simple\ test\ project-Prefix.pch.pch simple\ test\ project/simple\ test\ project-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=134 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/ModuleCache -fmodules-ignore-macro=FRANKIFIED -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-generated-files.hmap -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-own-target-headers.hmap -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-all-target-headers.hmap -iquote /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/simple\ test\ project-project-headers.hmap -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/DerivedSources/i386 -I/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/simple\ test\ project.build/Debug-iphonesimulator/simple\ test\ project.build/DerivedSources -F/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/simple\ test\ project-Prefix-eegohxranjnbtpfztewfpfvcscce/simple\ test\ project-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/simple\ test\ project-Prefix-eegohxranjnbtpfztewfpfvcscce/simple\ test\ project-Prefix.pch.d -c /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/simple\ test\ project/simple\ test\ project-Prefix.pch -o /var/folders/hm/x691xdcx1zncg2sw9yhqzhgc0000gw/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/simple\ test\ project-Prefix-eegohxranjnbtpfztewfpfvcscce/simple\ test\ project-Prefix.pch.pch36"AE000D95-7F47-47AF-8686-9369C09EE523-
+bE80514A0-3ED9-45B6-81A2-D84AA785B86C
+
+CSymLink /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/simple\ test\ project.app /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app
+s412864338.915735
+e412864338.942885
+r1
+xSymLink
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/simple test project.app
+x/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Process /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/simple test project.app118"[1mSymLink[0m build/Debug-iphonesimulator/simple\ test\ project.app Frank/frankified_build/simple\ test\ project.appb08fea52cf9bb841^8061f152cf9bb841^---0#0#1#--755"[1mSymLink[0m build/Debug-iphonesimulator/simple\ test\ project.app Frank/frankified_build/simple\ test\ project.app    cd /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Applications/Server.app/Contents/ServerRoot/usr/bin:/Applications/Server.app/Contents/ServerRoot/usr/sbin"    /bin/ln -sf /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/build/Debug-iphonesimulator/simple\ test\ project.app36"C2C5D5FA-EA53-4056-BEB5-FE576A704CBD-
+bE80514A0-3ED9-45B6-81A2-D84AA785B86C
+
+CTouch /Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple\ test\ project.app
+r0
+

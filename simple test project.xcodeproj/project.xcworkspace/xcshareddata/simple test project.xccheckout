@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4C94E9D2-F38F-476D-BD50-803266AA5D5B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>simple test project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5712B8D8-0CC3-4DDC-879B-E6054470787D</key>
+		<string>https://github.com/infinum/iphone_simple_app_test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>simple test project.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5712B8D8-0CC3-4DDC-879B-E6054470787D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/infinum/iphone_simple_app_test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5712B8D8-0CC3-4DDC-879B-E6054470787D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5712B8D8-0CC3-4DDC-879B-E6054470787D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iphone_simple_app_test</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1 @@
+/Users/fvugec/work/iPhone/simple_app/iphone_simple_app_test/Frank/frankified_build/simple test project.app
