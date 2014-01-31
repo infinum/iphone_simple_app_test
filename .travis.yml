@@ -5,4 +5,4 @@ set -e
 
 brew update
 brew install xctool
-xctool -workspace MyWorkspace -scheme MyScheme build test
+xctool -workspace "simple test project.xcodeproj" -scheme simple_app build test
