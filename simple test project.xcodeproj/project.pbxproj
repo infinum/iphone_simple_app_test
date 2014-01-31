@@ -381,6 +381,14 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "simple test project/simple test project-Prefix.pch";
 				INFOPLIST_FILE = "simple test project/simple test project-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(FRANK_LIBRARY_SEARCH_PATHS)",
+				);
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"$(FRANK_LDFLAGS)",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -460,6 +468,7 @@
 				36020CD0189BB59B00F2E6DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		36020CD1189BB59B00F2E6DD /* Build configuration list for PBXNativeTarget "simple test projectTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +477,7 @@
 				36020CD3189BB59B00F2E6DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
