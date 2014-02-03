@@ -5,6 +5,6 @@ xcodebuild \
 -configuration Debug \
 -sdk iphoneos \
 DEPLOYMENT_LOCATION=YES \
-DSTROOT="<full_path_to_your_xcode_project_directory>/Frank/frankified_build" \
-FRANK_LIBRARY_SEARCH_PATHS="<full_path_to_your_xcode_project_directory>/Frank" \
+DSTROOT="Frank/frankified_build" \
+FRANK_LIBRARY_SEARCH_PATHS="Frank" \
 clean build
