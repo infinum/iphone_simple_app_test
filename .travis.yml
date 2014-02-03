@@ -1,4 +1,6 @@
 language: objective-c
+rvm:
+- frank-cucumber
 
 script: 
 - frank build
