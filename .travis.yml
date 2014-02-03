@@ -1,5 +1,5 @@
 language: objective-c
-install: gem install frank-cucumber
+install: gem install frank-cucumber -N
 
 script: 
 - frank build
