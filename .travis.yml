@@ -3,6 +3,5 @@
 
 set -e
 
-brew update
-brew install xctool
-xctool -workspace "simple test project.xcodeproj" -scheme simple_app build test
+frank build
+cucumber Frank/features/my_first.feature
