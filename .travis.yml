@@ -1,7 +1,4 @@
 language: objective-c
 
-set -e
-
-script: 
 frank build
 cucumber Frank/features/my_first.feature
